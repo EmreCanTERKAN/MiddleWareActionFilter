@@ -1,0 +1,6 @@
+@MiddleWareActionFilter_HostAddress = http://localhost:5227
+
+GET {{MiddleWareActionFilter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
